@@ -1,0 +1,103 @@
+year,name,department,role,salary
+2020,John Doe,Engineering,Software Engineer,55000
+2019,Jane Smith,Marketing,Marketing Specialist,47000
+2021,Michael Brown,Finance,Accountant,52000
+2022,Linda Johnson,HR,HR Manager,63000
+2023,David Wilson,Engineering,DevOps Lead,66000
+2020,Michael Brown,Finance,Senior Accountant,55500
+2025,Jane Smith,Marketing,Marketing Director,61000
+2021,John Doe,Engineering,Software Engineer,57500
+2019,David Wilson,Engineering,DevOps Engineer,58000
+2024,Linda Johnson,HR,HR Director,72000
+2022,Jane Smith,Marketing,Marketing Lead,53000
+2020,Linda Johnson,HR,HR Manager,60000
+2023,Michael Brown,Finance,Senior Accountant,58500
+2021,David Wilson,Engineering,DevOps Engineer,60000
+2025,John Doe,Engineering,Lead Engineer,73000
+2024,Michael Brown,Finance,Finance Manager,64000
+2020,Jane Smith,Marketing,Marketing Specialist,48000
+2022,David Wilson,Engineering,DevOps Engineer,61500
+2019,Michael Brown,Finance,Accountant,51000
+2023,Linda Johnson,HR,HR Director,70000
+2021,Jane Smith,Marketing,Marketing Specialist,49500
+2022,John Doe,Engineering,Senior Software Engineer,62000
+2020,David Wilson,Engineering,DevOps Engineer,58000
+2025,Linda Johnson,HR,HR Director,73500
+2023,John Doe,Engineering,Senior Software Engineer,67000
+2019,Linda Johnson,HR,HR Manager,59000
+2021,Michael Brown,Finance,Accountant,52500
+2024,Jane Smith,Marketing,Marketing Director,60000
+2022,Jane Smith,Marketing,Marketing Lead,54000
+2020,John Doe,Engineering,Software Engineer,55500
+2023,David Wilson,Engineering,DevOps Lead,66000
+2021,Linda Johnson,HR,HR Manager,61500
+2019,Jane Smith,Marketing,Marketing Specialist,46500
+2022,Michael Brown,Finance,Senior Accountant,56000
+2025,David Wilson,Engineering,DevOps Lead,69500
+2024,John Doe,Engineering,Lead Engineer,72500
+2020,Michael Brown,Finance,Senior Accountant,55000
+2023,Jane Smith,Marketing,Marketing Lead,55000
+2021,David Wilson,Engineering,DevOps Engineer,60500
+2019,John Doe,Engineering,Software Engineer,54000
+2022,Linda Johnson,HR,HR Manager,63000
+2025,Michael Brown,Finance,Finance Manager,64500
+2020,Linda Johnson,HR,HR Manager,60500
+2021,Jane Smith,Marketing,Marketing Specialist,50000
+2024,David Wilson,Engineering,DevOps Lead,69000
+2023,Michael Brown,Finance,Senior Accountant,58000
+2019,David Wilson,Engineering,DevOps Engineer,57500
+2022,John Doe,Engineering,Senior Software Engineer,62500
+2020,Jane Smith,Marketing,Marketing Specialist,48500
+2025,Linda Johnson,HR,HR Director,74000
+2021,Michael Brown,Finance,Accountant,53000
+2023,Linda Johnson,HR,HR Director,70500
+2024,Jane Smith,Marketing,Marketing Director,61000
+2022,David Wilson,Engineering,DevOps Engineer,62000
+2020,John Doe,Engineering,Software Engineer,56000
+2019,Michael Brown,Finance,Accountant,51500
+2021,Jane Smith,Marketing,Marketing Specialist,49500
+2025,John Doe,Engineering,Lead Engineer,73500
+2023,David Wilson,Engineering,DevOps Lead,66500
+2022,Jane Smith,Marketing,Marketing Lead,54500
+2020,Linda Johnson,HR,HR Manager,61000
+2019,Linda Johnson,HR,HR Manager,58500
+2024,Michael Brown,Finance,Finance Manager,65000
+2021,David Wilson,Engineering,DevOps Engineer,61000
+2023,John Doe,Engineering,Senior Software Engineer,67500
+2022,Michael Brown,Finance,Senior Accountant,56500
+2020,Jane Smith,Marketing,Marketing Specialist,49000
+2025,David Wilson,Engineering,DevOps Lead,70000
+2021,John Doe,Engineering,Software Engineer,58000
+2019,Jane Smith,Marketing,Marketing Specialist,46000
+2024,Linda Johnson,HR,HR Director,72500
+2023,Michael Brown,Finance,Senior Accountant,59000
+2022,Linda Johnson,HR,HR Manager,63500
+2020,David Wilson,Engineering,DevOps Engineer,58500
+2021,Jane Smith,Marketing,Marketing Specialist,50000
+2025,Michael Brown,Finance,Finance Manager,65500
+2024,John Doe,Engineering,Lead Engineer,73000
+2019,Michael Brown,Finance,Accountant,52000
+2023,Linda Johnson,HR,HR Director,71000
+2022,John Doe,Engineering,Senior Software Engineer,63000
+2020,Linda Johnson,HR,HR Manager,61500
+2021,Michael Brown,Finance,Accountant,53500
+2025,Jane Smith,Marketing,Marketing Director,61500
+2023,David Wilson,Engineering,DevOps Lead,67000
+2022,Jane Smith,Marketing,Marketing Lead,55000
+2020,John Doe,Engineering,Software Engineer,56500
+2019,David Wilson,Engineering,DevOps Engineer,58000
+2024,Michael Brown,Finance,Finance Manager,64500
+2021,Linda Johnson,HR,HR Manager,62000
+2023,John Doe,Engineering,Senior Software Engineer,68000
+2022,Michael Brown,Finance,Senior Accountant,57000
+2020,Jane Smith,Marketing,Marketing Specialist,49500
+2025,Linda Johnson,HR,HR Director,74500
+2019,Jane Smith,Marketing,Marketing Specialist,47000
+2024,David Wilson,Engineering,DevOps Lead,69500
+2023,Michael Brown,Finance,Senior Accountant,59500
+2022,Linda Johnson,HR,HR Manager,64000
+2021,David Wilson,Engineering,DevOps Engineer,61500
+2020,John Doe,Engineering,Software Engineer,57000
+2025,Michael Brown,Finance,Finance Manager,66000
+2024,Jane Smith,Marketing,Marketing Director,62000
+2023,Linda Johnson,HR,HR Director,71500
