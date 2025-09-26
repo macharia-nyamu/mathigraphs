@@ -11,6 +11,7 @@ The project is designed to be simple to build and extend.
 
 ## Project Structure
 
+```bash
 .
 ├── assets
 │   ├── company.csv
