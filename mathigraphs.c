@@ -3,7 +3,8 @@
 #include "mathi.h"
 #include "headers/mathigraphs.h"
 
-int main()
+
+void start_mathigraphs()
 {
 	char cont[] = "mathigraphs# ";
 
@@ -47,6 +48,11 @@ int main()
 		// new lines
 		printf("\n");
 	}
+}
 
+int main()
+{
+	
+	start_mathigraphs();
 	return 0;
 }
