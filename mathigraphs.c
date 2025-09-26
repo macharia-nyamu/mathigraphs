@@ -24,7 +24,7 @@ int main()
 			continue;
 		}
 
-		// validate the input
+		// validate the input // from mathi c library
 		char *user_inp = mathi_string_to_lower((char*)inp.value);
 		if (mathi_string_compare(user_inp, "help") == 0)
 		{
@@ -35,7 +35,7 @@ int main()
 			printf("Bye!\n");
 			break;
 		}
-		else if (strncmp(user_inp, "bar", 3) == 0) 
+		else if (strncmp(user_inp, "bar", 3) == 0) // supports bar only for now
 		{
 			display_bar(user_inp);
 		}

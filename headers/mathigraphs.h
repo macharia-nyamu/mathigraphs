@@ -6,4 +6,4 @@
 #include "help.h"
 #include "bar.h"
 
-#endif // MATHIGRAPHS_H
+#endif

@@ -6,8 +6,8 @@ typedef struct {
     char *x;
     char *y;
     char *title;
-    char *compute; // sum, avg, max, min
-    char *sort;    // optional: "x" or "y"
+    char *compute;
+    char *sort;
 } BarOptions;
 
 typedef struct {
