@@ -50,9 +50,9 @@ void start_mathigraphs()
 	}
 }
 
-int main()
-{
+// int main()
+// {
 	
-	start_mathigraphs();
-	return 0;
-}
+// 	start_mathigraphs();
+// 	return 0;
+// }
