@@ -35,6 +35,7 @@ The project is designed to be simple to build and extend.
     ├── help.o
     ├── starter.c
     └── starter.o
+```
 
 ---
 
@@ -56,11 +57,13 @@ This will:
 
 If you want to compile manually:
 
-    gcc -c src/bar.c -o src/bar.o
-    gcc -c src/help.c -o src/help.o
-    gcc -c src/starter.c -o src/starter.o
-    ar rcs libmathi.a src/*.o
-    gcc mathigraphs.c libmathi.a -Iheaders -o mathigraphs
+```bash
+gcc -c src/bar.c -o src/bar.o
+gcc -c src/help.c -o src/help.o
+gcc -c src/starter.c -o src/starter.o
+ar rcs libmathi.a src/*.o
+gcc mathigraphs.c libmathi.a -Iheaders -o mathigraphs
+```	
 
 ---
 
@@ -68,7 +71,9 @@ If you want to compile manually:
 
 After building:
 
-    ./mathigraphs
+```bash
+./mathigraphs
+```
 
 You can run commands interactively or pass them through a file such as `assets/examples.txt`.
 
@@ -78,8 +83,10 @@ You can run commands interactively or pass them through a file such as `assets/e
 
 Inside `assets/examples.txt` you will find sample commands. For example:
 
-    bar file='assets/company.csv' x='year' y='salary' compute='sum' sort='x' title='Total Salaries by Year'
-    bar file='assets/company.csv' x='year' y='salary' compute='avg' sort='y' title='Highest Average Salary'
+```bash
+bar file='assets/company.csv' x='year' y='salary' compute='sum' sort='x' title='Total Salaries by Year'
+bar file='assets/company.csv' x='year' y='salary' compute='avg' sort='y' title='Highest Average Salary'
+```
 
 ### Explanation of Parameters
 
