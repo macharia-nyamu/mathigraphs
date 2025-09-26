@@ -1,2 +1,4 @@
 bar file='assets/company.csv' x='year' y='salary' compute='sum' sort='x' title='Total Salaries by Year'
 bar file='assets/company.csv' x='year' y='salary' compute='avg' sort='y' title='Highest Average Salary'
+
+
